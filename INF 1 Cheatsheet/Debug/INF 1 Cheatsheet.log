@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\main.cpp(3,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  funktion.cpp
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(24,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(138,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(153,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(168,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(183,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Mts\source\repos\INF 1 Cheatsheet\INF 1 Cheatsheet\funktion.cpp(199,19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+  INF 1 Cheatsheet.vcxproj -> C:\Users\Mts\source\repos\INF 1 Cheatsheet\Debug\INF 1 Cheatsheet.exe
